@@ -1,9 +1,9 @@
 # esx_clotheshop ลดหน่วง/remove lag esx/qbcore
 
+## Download & Installation
 ## Requirements
 - [esx_skin](https://github.com/esx-legacy/esx_skin)
 
-## Download & Installation
 
 ## Installation
 - Add this in your `server.cfg`:
@@ -16,7 +16,7 @@ ensure esx_clotheshop
 ### License
 esx_clotheshop - clothing store
 
-Copyright (C) 2015-2022 
+Copyright (C) 2015-2022 ESX-Framework
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
